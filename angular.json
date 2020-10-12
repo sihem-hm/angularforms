@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Reactivefroms"
+    }
+  },
+  "defaultProject": "Reactivefroms",
+  "cli": {
+    "analytics": "49880688-a3ef-40ca-8c63-b52f10c68b01"
+  }
 }
